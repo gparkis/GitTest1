@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             //after the fact i am adding code
             //edited in github
+            Console.WriteLine("Here is the code added in VS");
         }
     }
 }
