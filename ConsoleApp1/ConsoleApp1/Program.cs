@@ -14,6 +14,7 @@ namespace ConsoleApp1
             //edited in github
             Console.WriteLine("Here is the code added in VS");
             //code to call feature 1
+            // code to call feature 2
             
             //code to call feature 3
         }
